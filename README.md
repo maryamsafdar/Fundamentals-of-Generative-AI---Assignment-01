@@ -1,7 +1,7 @@
-                        # Fundamentals of Generative AI - Assignment 01
+##### Fundamentals of Generative AI - Assignment 01
 
-## 
-QUESTION-1 
+
+#### QUESTION-1 
     Differentiate between AI, machine learning, deep learning, generative AI, and applied AI.
 
 ### Artificial Intelligence (AI):
