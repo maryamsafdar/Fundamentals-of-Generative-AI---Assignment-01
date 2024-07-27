@@ -143,3 +143,77 @@ In the context of natural language processing (NLP) and certain neural network a
 
 Tokenization is the process of breaking down text into these tokens. This allows neural networks, especially those used in NLP tasks, to process and understand text data more effectively.
 
+## QUESTION-5
+    Provide an overview of Transformers, Generative Adversarial Networks (GANs), Variational Autoencoders (VAEs), and Long Short-Term Memory (LSTM) networks.
+
+## Transformers
+
+### What are Transformers?
+
+Transformers are a type of neural network architecture introduced in the paper "Attention is All You Need" by Vaswani et al. (2017). They are designed to handle sequential data and are particularly effective in natural language processing (NLP) tasks.
+
+### Key Features:
+
+- **Self-Attention Mechanism**: Allows the model to weigh the importance of different tokens in a sequence relative to each other, capturing contextual relationships more effectively.
+- **Encoder-Decoder Structure**: Utilizes separate encoder and decoder components, where the encoder processes input sequences and the decoder generates output sequences.
+- **Parallelization**: Unlike RNNs, Transformers can process sequences in parallel, significantly improving training efficiency.
+
+### Applications:
+
+- Machine Translation
+- Text Summarization
+- Language Modeling (e.g., BERT, GPT)
+
+## Generative Adversarial Networks (GANs)
+
+### What are GANs?
+
+Generative Adversarial Networks (GANs) are a type of neural network architecture introduced by Ian Goodfellow et al. (2014). GANs consist of two networks: a Generator and a Discriminator, which are trained simultaneously through adversarial processes.
+
+### Key Features:
+
+- **Generator**: Creates synthetic data samples that resemble real data.
+- **Discriminator**: Evaluates the authenticity of data samples, distinguishing between real and generated data.
+- **Adversarial Training**: The Generator and Discriminator compete with each other, improving the quality of generated data over time.
+
+### Applications:
+
+- Image Generation
+- Art Creation
+- Data Augmentation
+
+## Variational Autoencoders (VAEs)
+
+### What are VAEs?
+
+Variational Autoencoders (VAEs) are a type of probabilistic generative model introduced by Kingma and Welling (2013). VAEs combine ideas from autoencoders and variational inference to generate new data samples from learned distributions.
+
+### Key Features:
+
+- **Encoder**: Maps input data to a latent space distribution.
+- **Decoder**: Samples from the latent space and reconstructs data.
+- **Variational Inference**: Uses probabilistic methods to approximate complex distributions, allowing for smooth interpolation and generation.
+
+### Applications:
+
+- Image Denoising
+- Anomaly Detection
+- Data Generation
+
+## Long Short-Term Memory (LSTM) Networks
+
+### What are LSTMs?
+
+Long Short-Term Memory (LSTM) networks are a type of Recurrent Neural Network (RNN) designed to address the issue of vanishing and exploding gradients in traditional RNNs. They were introduced by Hochreiter and Schmidhuber (1997).
+
+### Key Features:
+
+- **Memory Cells**: Maintain long-term dependencies and state information over long sequences.
+- **Gates**: Control the flow of information into and out of memory cells, including input, output, and forget gates.
+- **Sequence Processing**: Efficiently handle long-range dependencies in sequential data.
+
+### Applications:
+
+- Time Series Forecasting
+- Speech Recognition
+- Language Modeling
