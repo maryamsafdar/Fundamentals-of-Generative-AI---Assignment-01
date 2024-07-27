@@ -1,4 +1,5 @@
-# Fundamentals of Generative AI - Assignment 01
+# Fundamentals of Generative AI 
+# Assignment 01
 
 
 ## QUESTION-1 
