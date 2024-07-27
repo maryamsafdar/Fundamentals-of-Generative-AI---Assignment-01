@@ -66,27 +66,41 @@ Training is the process of teaching an AI model to recognize patterns and make p
 
 ### Inference:
 Inference is the process of using a trained AI model to make predictions on new, unseen data. During inference, the model applies the patterns and knowledge it learned during training to new inputs to generate predictions or classifications. Inference typically involves:
+
 **1-Loading the Trained Model:** Using the trained model's parameters for predictions.
+
 **2-Forward Pass:** Feeding new input data through the model to obtain predictions.
+
 **3-Output Generation:** Producing results based on the model's predictions.
 
 ## Utilization of GPUs and Neural Engines:
 ## GPUs (Graphics Processing Units):
+
 GPUs are specialized hardware designed for parallel processing, which makes them well-suited for both training and inference in AI. Here's how GPUs are utilized:
+
 ### 1-Training:
 **1-Parallelism:**GPUs can perform many calculations simultaneously, which accelerates the training of deep learning models that involve large matrices and tensors.
+
 **2-Speed:** The parallel processing capability of GPUs significantly speeds up the training process compared to traditional CPUs.
+
 **3-Batch Processing:** GPUs handle large batches of data efficiently, which is crucial for training models with substantial datasets.
+
 ### 2-Inference:
+
 **1-Real-Time Performance:** GPUs accelerate the inference process, enabling real-time predictions for applications like autonomous vehicles, real-time video analysis, and online recommendations.
+
 **2-Scalability:** GPUs can handle multiple inference requests simultaneously, making them suitable for high-throughput scenarios.
 
 ## Neural Engines:
 Neural engines are specialized hardware components designed specifically for AI tasks, often found in modern CPUs and dedicated AI chips. They are optimized for accelerating neural network computations. Here's how they are utilized:
+
 ### 1-Training:
 **1-Efficiency:** Neural engines are designed to perform the specific operations required by neural networks efficiently, such as matrix multiplications and convolutions.
+
 **2-Energy Efficiency:** They offer high performance with lower power consumption compared to general-purpose CPUs and GPUs.
 
 ### 2-Inference:
+
 **1-Optimized Execution:** Neural engines are optimized for executing inference tasks quickly, with reduced latency and high throughput.
+
 **2-Integration:** They are often integrated into mobile devices and edge computing platforms, providing AI capabilities directly on the device without needing cloud processing.
