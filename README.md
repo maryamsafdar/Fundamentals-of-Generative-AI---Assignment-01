@@ -19,29 +19,29 @@ Generative AI refers to models that can generate new data or content that resemb
 **Applied AI:**
 Applied AI refers to the practical implementation of AI technologies to solve real-world problems. It involves applying AI, machine learning, and deep learning techniques to specific domains like healthcare, finance, or transportation. Applied AI focuses on developing solutions and tools that leverage AI to address industry-specific challenges and improve processes or outcomes.
 
-****QUESTION-2:****
+## QUESTION-2:
    Define Artificial General Intelligence (AGI) and outline the five steps to achieve super-intelligence.
 
 **Artificial General Intelligence (AGI):**
 Artificial General Intelligence (AGI) refers to a form of artificial intelligence that possesses the ability to understand, learn, and apply knowledge across a wide range of tasks at a level comparable to or surpassing that of human intelligence. Unlike narrow AI, which is designed to perform specific tasks (e.g., image recognition or natural language processing), AGI aims to exhibit cognitive abilities that are not limited to predefined functions. AGI would be capable of generalizing knowledge and adapting to new situations, making it versatile and adaptable across various domains.
 
-1- Chatbots:
+**1- Chatbots:**
 Role: Start by developing advanced chatbots that utilize sophisticated natural language processing (NLP) to interact with users in a more human-like manner. These chatbots should be capable of understanding context, maintaining coherent conversations, and providing meaningful responses.
 Goal: Lay the groundwork for more complex systems by enhancing the ability of AI to handle human language and interaction.
 
-2- Reasoners:
+**2- Reasoners:**
 Role: Build reasoners that can perform logical reasoning and complex decision-making. These systems should be able to analyze data, make inferences, and solve problems by applying rules and logic.
 Goal: Develop AI with the ability to understand and reason about complex scenarios, enhancing its problem-solving capabilities and intelligence.
 
-3- Agents:
+**3- Agents:**
 Role: Create autonomous agents that can act and make decisions in dynamic environments. These agents should be capable of learning from interactions, adapting to new situations, and performing tasks without constant human oversight.
 Goal: Achieve a higher level of autonomy and adaptability, enabling AI to operate in a broader range of real-world applications.
 
-4- Innovators:
+**4- Innovators:**
 Role: Encourage and develop innovative AI systems that push the boundaries of current technology. These systems should be designed to explore new solutions, discover novel approaches, and drive advancements in AI research.
 Goal: Foster creativity and innovation in AI to push towards more advanced and intelligent systems.
 
-5-Organizations:
+**5-Organizations:**
 Role: Establish organizations focused on advancing AI research, development, and implementation. These organizations should facilitate collaboration among researchers, engineers, and policymakers to ensure that AI technologies are developed responsibly and ethically.
 Goal: Create a structured environment that supports the growth and ethical deployment of AI technologies, ensuring that advancements contribute positively to society.
 
