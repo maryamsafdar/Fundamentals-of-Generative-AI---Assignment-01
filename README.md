@@ -79,6 +79,7 @@ Inference is the process of using a trained AI model to make predictions on new,
 GPUs are specialized hardware designed for parallel processing, which makes them well-suited for both training and inference in AI. Here's how GPUs are utilized:
 
 ### 1-Training:
+
 **1-Parallelism:**GPUs can perform many calculations simultaneously, which accelerates the training of deep learning models that involve large matrices and tensors.
 
 **2-Speed:** The parallel processing capability of GPUs significantly speeds up the training process compared to traditional CPUs.
