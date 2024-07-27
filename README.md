@@ -20,7 +20,7 @@ Generative AI refers to models that can generate new data or content that resemb
 Applied AI refers to the practical implementation of AI technologies to solve real-world problems. It involves applying AI, machine learning, and deep learning techniques to specific domains like healthcare, finance, or transportation. Applied AI focuses on developing solutions and tools that leverage AI to address industry-specific challenges and improve processes or outcomes.
 
 ## QUESTION-2:
-   Define Artificial General Intelligence (AGI) and outline the five steps to achieve super-intelligence.
+    Define Artificial General Intelligence (AGI) and outline the five steps to achieve super-intelligence.
 
 **Artificial General Intelligence (AGI):**
 Artificial General Intelligence (AGI) refers to a form of artificial intelligence that possesses the ability to understand, learn, and apply knowledge across a wide range of tasks at a level comparable to or surpassing that of human intelligence. Unlike narrow AI, which is designed to perform specific tasks (e.g., image recognition or natural language processing), AGI aims to exhibit cognitive abilities that are not limited to predefined functions. AGI would be capable of generalizing knowledge and adapting to new situations, making it versatile and adaptable across various domains.
