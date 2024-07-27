@@ -105,3 +105,41 @@ Neural engines are specialized hardware components designed specifically for AI 
 **1-Optimized Execution:** Neural engines are optimized for executing inference tasks quickly, with reduced latency and high throughput.
 
 **2-Integration:** They are often integrated into mobile devices and edge computing platforms, providing AI capabilities directly on the device without needing cloud processing.
+
+## QUESTION-4
+    Describe neural networks, including an explanation of parameters and tokens.
+
+## Neural Networks Overview
+
+## Introduction
+
+Neural networks are a fundamental component of artificial intelligence and machine learning. They are inspired by the biological neural networks in the human brain and are used to model complex patterns and relationships in data. This README provides an overview of neural networks, including key concepts such as parameters and tokens.
+
+## What is a Neural Network?
+
+A neural network is a series of algorithms that attempt to recognize underlying relationships in a set of data through a process that mimics the way the human brain operates. Neural networks consist of interconnected nodes (neurons) organized into layers. The basic structure of a neural network includes:
+
+- **Input Layer**: Receives the input data.
+- **Hidden Layers**: Perform computations and transform the input data through weighted connections.
+- **Output Layer**: Produces the final output or prediction.
+
+
+
+### Parameters
+
+Parameters in a neural network are the weights and biases that the network learns during training. They are crucial for the network to make accurate predictions. Here's a brief explanation:
+
+- **Weights**: These are the coefficients for the connections between neurons in adjacent layers. Each connection has an associated weight that determines the strength and direction of the influence of one neuron on another. During training, the network adjusts these weights to minimize the error in its predictions.
+
+- **Biases**: Each neuron has an associated bias that allows the model to shift the activation function and help the network learn more complex patterns. Biases are added to the weighted sum of inputs before applying the activation function.
+
+### Tokens
+
+In the context of natural language processing (NLP) and certain neural network applications, tokens are units of text that the model processes. Tokens can be:
+
+- **Words**: Individual words in a sentence.
+- **Subwords**: Parts of words or morphemes that can be useful for handling out-of-vocabulary words or complex words.
+- **Characters**: Individual characters of text.
+
+Tokenization is the process of breaking down text into these tokens. This allows neural networks, especially those used in NLP tasks, to process and understand text data more effectively.
+
