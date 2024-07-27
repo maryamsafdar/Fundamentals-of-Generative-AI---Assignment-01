@@ -1,10 +1,10 @@
-                 **** Fundamentals of Generative AI - Assignment 01****
+                        # Fundamentals of Generative AI - Assignment 01
 
-
-****QUESTION-1 ****
+## 
+QUESTION-1 
     Differentiate between AI, machine learning, deep learning, generative AI, and applied AI.
 
-****Artificial Intelligence (AI):****
+### Artificial Intelligence (AI):
 AI is a broad field of computer science focused on creating systems that can perform tasks that typically require human intelligence. This includes reasoning, problem-solving, understanding natural language, and perception. AI encompasses a wide range of techniques and approaches to make machines "intelligent."
 
 **Machine Learning (ML):**
