@@ -51,12 +51,19 @@ Goal: Create a structured environment that supports the growth and ethical deplo
 ## Training and Inference in AI:
 ### Training:
 Training is the process of teaching an AI model to recognize patterns and make predictions by exposing it to large amounts of data. During training, the model learns to map input data to the correct outputs by adjusting its internal parameters (weights and biases) based on the error between its predictions and the actual results. This process involves several key steps:
+
 **1-Data Collection:** Gathering and preparing the dataset.
+
 **2-Model Selection:** Choosing the appropriate algorithm or neural network architecture.
+
 **3-Forward Pass:** Feeding input data through the model to obtain predictions.
+
 **4-Loss Calculation:** Comparing predictions to the actual outcomes to calculate the error (loss).
+
 **4-Backpropagation:** Adjusting model parameters to minimize the error using optimization algorithms (e.g., gradient descent).
+
 **5-Iteration:** Repeating the forward pass, loss calculation, and backpropagation for multiple epochs until the model converges. 
+
 ### Inference:
 Inference is the process of using a trained AI model to make predictions on new, unseen data. During inference, the model applies the patterns and knowledge it learned during training to new inputs to generate predictions or classifications. Inference typically involves:
 **1-Loading the Trained Model:** Using the trained model's parameters for predictions.
